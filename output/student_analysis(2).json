@@ -1,0 +1,135 @@
+{
+  "persona": {
+    "learning_style": "Quick but Needs More Practice",
+    "consistency_score": 66.59,
+    "strength_areas": [
+      "microbes in human welfare"
+    ],
+    "improvement_needed": [
+      {
+        "topic": "principles of inheritance and variation ",
+        "accuracy": 5.084745762711865,
+        "total_attempts": 59
+      },
+      {
+        "topic": "Respiration and Gas Exchange",
+        "accuracy": 6.0,
+        "total_attempts": 100
+      },
+      {
+        "topic": "Human Reproduction",
+        "accuracy": 11.235955056179774,
+        "total_attempts": 89
+      },
+      {
+        "topic": "Body Fluids and Circulation",
+        "accuracy": 21.666666666666668,
+        "total_attempts": 300
+      },
+      {
+        "topic": "Reproductive Health",
+        "accuracy": 23.636363636363637,
+        "total_attempts": 55
+      },
+      {
+        "topic": "reproductive health ",
+        "accuracy": 59.09090909090909,
+        "total_attempts": 44
+      },
+      {
+        "topic": "Body Fluids and Circulation ",
+        "accuracy": 59.42028985507246,
+        "total_attempts": 69
+      },
+      {
+        "topic": "human health and disease ",
+        "accuracy": 68.29268292682927,
+        "total_attempts": 41
+      }
+    ],
+    "performance_level": "Average Performer"
+  },
+  "recommendations": {
+    "priority_topics": [
+      "principles of inheritance and variation ",
+      "Respiration and Gas Exchange",
+      "Human Reproduction"
+    ],
+    "suggested_practice_plan": [
+      {
+        "topic": "principles of inheritance and variation ",
+        "recommended_questions": 20,
+        "focus_areas": [
+          "Basic Concepts",
+          "Practice Problems"
+        ],
+        "estimated_time": "2 hours"
+      },
+      {
+        "topic": "Respiration and Gas Exchange",
+        "recommended_questions": 20,
+        "focus_areas": [
+          "Basic Concepts",
+          "Practice Problems"
+        ],
+        "estimated_time": "2 hours"
+      },
+      {
+        "topic": "Human Reproduction",
+        "recommended_questions": 20,
+        "focus_areas": [
+          "Basic Concepts",
+          "Practice Problems"
+        ],
+        "estimated_time": "2 hours"
+      },
+      {
+        "topic": "Body Fluids and Circulation",
+        "recommended_questions": 20,
+        "focus_areas": [
+          "Basic Concepts",
+          "Practice Problems"
+        ],
+        "estimated_time": "2 hours"
+      },
+      {
+        "topic": "Reproductive Health",
+        "recommended_questions": 20,
+        "focus_areas": [
+          "Basic Concepts",
+          "Practice Problems"
+        ],
+        "estimated_time": "2 hours"
+      },
+      {
+        "topic": "reproductive health ",
+        "recommended_questions": 10,
+        "focus_areas": [
+          "Advanced Problems"
+        ],
+        "estimated_time": "1 hour"
+      },
+      {
+        "topic": "Body Fluids and Circulation ",
+        "recommended_questions": 10,
+        "focus_areas": [
+          "Advanced Problems"
+        ],
+        "estimated_time": "1 hour"
+      },
+      {
+        "topic": "human health and disease ",
+        "recommended_questions": 10,
+        "focus_areas": [
+          "Advanced Problems"
+        ],
+        "estimated_time": "1 hour"
+      }
+    ],
+    "improvement_strategies": [],
+    "next_steps": [
+      "Focus on reviewing past mistakes and understanding core concepts",
+      "Work on improving accuracy in moderate difficulty questions"
+    ]
+  }
+}
