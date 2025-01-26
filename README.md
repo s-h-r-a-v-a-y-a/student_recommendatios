@@ -19,7 +19,6 @@ This project analyzes students' quiz performance and generates personalized insi
 
 - **`app.py`**: The Streamlit app providing the user interface for data analysis.
 - **`student_recommendations.py`**: Core logic for analyzing student performance and generating recommendations.
-- **`main.py`**: Script for running the project as a standalone CLI.
 
 ---
 
